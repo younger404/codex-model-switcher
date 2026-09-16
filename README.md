@@ -1,5 +1,7 @@
 # Codex Model Switcher
 
+English | [简体中文](README.zh-CN.md)
+
 A minimal macOS utility for safely switching Codex Desktop's user-level default between OpenAI and a custom Kimi provider.
 
 It was built for one narrow problem: keep one Codex workspace, AGENTS, Skills and MCP setup, while changing the model provider without repeatedly hand-editing `~/.codex/config.toml`.
